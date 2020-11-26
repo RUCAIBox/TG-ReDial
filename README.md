@@ -10,7 +10,7 @@ In our dataset, we incorporate each user with the user profile and interaction h
 ## Dataset Description
 For everybody wants to play our dataset, we are very glad to inform you that thanks to Yuanhang's hard work, ***our dataset, codes and learned parameters can be downloaded now!!!*** 
 
-You can turn to [**Dataset Link**](https://drive.google.com/drive/folders/1jLkNtUgzqBITQJsbOjSq20S2zzpY5Foj?usp=sharing)(https://drive.google.com/drive/folders/1jLkNtUgzqBITQJsbOjSq20S2zzpY5Foj?usp=sharing) and the [**Code and Parameters Link**](https://github.com/RUCAIBox/TG_CRS_Code)(https://github.com/RUCAIBox/TG_CRS_Code) for starting your travel in TG-ReDial!
+You can turn to [**Dataset Link**](https://drive.google.com/drive/folders/1sWD6urkwyZo8ZyZBJoJw40eKK0jDNEni?usp=sharing)(https://drive.google.com/drive/folders/1sWD6urkwyZo8ZyZBJoJw40eKK0jDNEni?usp=sharing) and the [**Code and Parameters Link**](https://github.com/RUCAIBox/TG_CRS_Code)(https://github.com/RUCAIBox/TG_CRS_Code) for starting your travel in TG-ReDial!
 
 
 ### Statistics
